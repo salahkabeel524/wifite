@@ -1608,8 +1608,8 @@ def banner(RUN_CONFIG):
     print G + ".;'  ,;'  ,;'     `;,  `;,  `;,  "
     print G + "::   ::   :   " + GR + "( )" + G + "   :   ::   ::  " + GR + "automated wireless auditor"
     print G + "':.  ':.  ':. " + GR + "/_\\" + G + " ,:'  ,:'  ,:'  "
-    print G + " ':.  ':.    " + GR + "/___\\" + G + "    ,:'  ,:'   " + G + "try the new version:"
-    print G + "  ':.       " + GR + "/_____\\" + G + "      ,:'     " + C + "https://github.com/derv82/wifite2"
+    print G + " ':.  ':.    " + GR + "/___\\" + G + "    ,:'  ,:'   " + G + "try to make a root:"
+    print G + "  ':.       " + GR + "/_____\\" + G + "      ,:'     " + C + "https://github.com/S7x/salahkabeel616"
     print G + "           " + GR + "/       \\" + G + "             "
     print W
 

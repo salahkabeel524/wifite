@@ -3,7 +3,7 @@
 # -*- coding: utf-8 -*-
 
 """
-    wifite
+    wifi hack
 
     author: derv82 at gmail
     author: bwall @botnet_hunter (ballastsec@gmail.com)
@@ -1602,14 +1602,14 @@ def banner(RUN_CONFIG):
     """
         Displays ASCII art of the highest caliber.
     """
-    print ''
+    print ''wellcom in salah script
     print G + "  .;'                     `;,    "
     print G + " .;'  ,;'             `;,  `;,   " + W + "WiFite v2.0 (r" + str(RUN_CONFIG.REVISION) + ")"
     print G + ".;'  ,;'  ,;'     `;,  `;,  `;,  "
     print G + "::   ::   :   " + GR + "( )" + G + "   :   ::   ::  " + GR + "automated wireless auditor"
     print G + "':.  ':.  ':. " + GR + "/_\\" + G + " ,:'  ,:'  ,:'  "
-    print G + " ':.  ':.    " + GR + "/___\\" + G + "    ,:'  ,:'   " + G + "try the new version:"
-    print G + "  ':.       " + GR + "/_____\\" + G + "      ,:'     " + C + "https://github.com/derv82/wifite2"
+    print G + " ':.  ':.    " + GR + "/___\\" + G + "    ,:'  ,:'   " + G + "make a root :"
+    print G + "  ':.       " + GR + "/_____\\" + G + "      ,:'     " + C + "https://github.com/salah/salah.S7x"
     print G + "           " + GR + "/       \\" + G + "             "
     print W
 
